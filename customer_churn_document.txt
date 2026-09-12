@@ -1,0 +1,72 @@
+# Customer Churn Analysis
+
+Objective :
+
+The objective is to demonstrate end-to-end data analysis using Excel, including data cleaning, exploratory data analysis, visualization, and business recommendations that help organizations improve customer retention and reduce churn.
+
+---
+
+## Dataset Information
+
+The dataset contains customer-related information with the following columns:
+
+- Customer ID
+- Gender
+- Senior Citizen
+- Partner
+- Dependents
+- Tenure
+- Phone Service
+- Multiple Lines
+- Internet Service
+- Online Security
+- Online Backup
+- Device Protection
+- Tech Support
+- Streaming TV
+- Streaming Movies
+- Contract
+- Paperless Billing
+- Payment Method
+- Monthly Charges
+- Total Charges
+- Churn
+
+---
+
+## Business Requirements
+
+### 1. Churn Analysis
+
+- Analyze overall customer churn.
+- Identify customer segments with the highest churn rates.
+
+### 2. Contract Analysis
+
+- Evaluate churn across different contract types.
+- Determine which contract plans have the highest customer turnover.
+
+### 3. Tenure Analysis
+
+- Analyze the relationship between customer tenure and churn.
+- Identify periods where customers are most likely to leave.
+
+### 4. Monthly Charges Analysis
+
+- Examine how monthly charges influence churn.
+- Identify pricing segments associated with higher churn rates.
+
+### 5. Payment Method Analysis
+
+- Determine churn patterns across payment methods.
+- Identify payment methods linked to better customer retention.
+
+### 6. Internet Service Analysis
+
+- Compare churn among different internet service types.
+- Identify services associated with higher customer attrition.
+
+
+
+
+
